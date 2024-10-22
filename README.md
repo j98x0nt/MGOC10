@@ -1,1 +1,33 @@
-# MGOC10
+java c
+MGOC10    Fall 2024
+Assignment 1. Worth: 10%. Due: November 5, 2024, by 11:00 am. Please submit via Quercus under ASSIGNMENTS. This assignment is individual, every student should submit her/his own work.
+You should do the following problem and present your analysis in the form. of a managerial report.
+Problem INVESTMENT. In the table below, you have data on the returns (in %) for seven funds over five one-year periods.
+Year 1Year 2Year 3Year 4Year 5Fund A22222Fund B-2451-12433Fund C73462321Fund D-322-213426Fund E-268132652Fund F-2195472248Fund G53-224521
+You are an investment consultant who advises clients on choosing an investment portfolio, and these seven funds are possible investments. For planning purposes, you believe that the financial situation next year will be similar to one of these five years, so the five reported years can be used as possible scenarios. The probabilities of these scenarios are assumed to be 0.3, 0.2, 0.1, 0.3, and 0.1 for the years 1 to 5,respectively.
+For diversification purposes, your company’s strict policy is not to invest more than 35% of the portfolio in any specific fund other than Fund A; the investment in Fund A is unlimited because it is a stable money market fund, but it is required that at least 5% of the portfolio is invested in Fund A.
+a)   Suppose you have 10 million to invest, and consider the portfolio that invests 2 million in each of the funds A, B, C, D, E, and nothing to funds F and G. What is the expected return and the guaranteed (worst-case) return for this portfolio?
+b)  Develop a linear programming model that will find an optimal portfolio for a
+client who has 10 million dollars to invest and wants to maximize the expected
+return. Find an optimal solution using Excel solver and state your
+recommendation. What is the optimal expected return for this client? (Note: the
+return should be in $,not in %). Include printouts of the supporting Excel outputs in an appendix.
+c)   Develop a linear programming model that will find an optimal portfolio for a client who also has 10 million dollars to invest but wants to maximize the
+guaranteed return. Find optimal solution using Excel solver and state your recommendation. What is the optimal guaranteed return for this client? Include the printouts of the supporting Excel outputs in an appendix.
+d)  Find an optimal portfolio for a client who has 10 million dollars to invest and
+wants to maximize the expected return subject to the condition that she is guaranteed to receive at least $250,000 return. Do not write the full model, just indicate how one of the previous models should be modified. What is the optimal expected return for this client? Include the supporting Excel outputs in an appendix.
+e)   Find an optimal portfolio for a client who has 10 million dollars to invest and
+wants to maximize the expected return subject to the condition that he is guaranteed not to lose money. Do not write the full model, just indicate how one of the previous models should be modified. What is the optimal expected return  for this client? Include the supporting Excel outputs in an appendix.
+f)   Find an optimal portfolio for a client who has 10 million dollars to invest and wants to maximize the guaranteed return subject to the condition that the expected return is at least 1.5 million. Do not write the full mo代 写MGOC10 Fall 2024 Assignment 1
+代做程序编程语言del, just indicate how one of the previous models should be modified. What is the optimal guaranteed return for this client? Include the supporting Excel outputs in an appendix.
+g)  If you had 10 million to invest (and that would be all the money you have), what  portfolio would you choose in this situation? What if you had $100,000? Provide a detailed justification of your decision. You can think of this as if you are advising a client who trusts you to make a decision for him/her based on your own preferences. You may want to “play” with the problem trying different requirements.
+h)  Write an executive summary of your work (at least one-half of a page, no more than one page, any font any spacing). The executive summary should include a brief verbal description of the situation in your words (without numerical data) and summary of your work and conclusions (the summary can include numerical results). Place the executive summary at the beginning of your report, under the   heading “Executive Summary”
+The executive summary is the summary of your MAIN findings: this is what your boss would read first, and if (s)he doesn’t like it, (s)he may not want to read the rest. So, it   must be very clear,well-written and polished, as an executive summary of a business    report.The detailed report should make clear references to computer outputs that must be also included as screenshots in appendices. Please include screenshots of the original Excel outputs, not summaries, not tables that you draw yourself based on the outputs. The screenshots should support your answers. Answers without the supporting screenshots of computer outputs may not be credited. Do not put the screenshots in the   main body of the report, only in appendices.
+As for computer outputs for the models, please include (1) the spreadsheet, (2) the Solver Parameters screen.
+Your assignments must be typed. Handwritten assignments will not be accepted.
+Quality of presentation is a significant component in evaluation. The assignment will be graded based on correctness, logic, completeness, clarity and quality of presentation, grammatical and stylistic correctness, and overall impression (yes, in real life reports not only have to be correct, but also should make good impression!) Note that evaluation of  presentation is based on the subjective impression of the grader; clarity and ease of finding all necessary information is an important component.
+You should use the Excel solver for this assignment. Detailed explanations on how to use the solver are available in the book. Examples on using Excel solver are available in each of the Chapters 2-4. Also, you can see the posted Topic 3 on Quercus. You should carefully work out these examples to understand how to use the solver. Appendix A in the book has some basic material on spreadsheet models.
+To ensure that all students have equal chances, to make the setting closer to a real-life project and to introduce an element of independent learning to the course, the general policy with respect to the assignments is that neither the professor northe T.A. will give  you ANY help with using the software - this you should figure out yourself. Nor will we help with any specific questions about your problems. However, general conceptual questions about the course material are very welcome.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
